@@ -8,3 +8,5 @@
 - Day 5: Reverse a String
   - [Solution #1](https://scrimba.com/scrim/cod1f43ba92928d78788a85f8) ([day5-reverseAString.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day5-reverseAString.js))
   - [Solution #2](https://scrimba.com/scrim/co7ac4246aa693d2aa9ad2947) ([day5-reverseAString-2.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day5-reverseAString-2.js))
+- Day 6: Sort by Length
+  - [Solution #1](https://scrimba.com/scrim/co7a74b0ea9d82b404697c835) ([day6-sortByLength.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day6-sortByLength.js/))
