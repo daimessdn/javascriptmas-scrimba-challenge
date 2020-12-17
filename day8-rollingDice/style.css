@@ -1,0 +1,34 @@
+body {
+    background-color: #AEB8FE;
+    display: inline-flex;
+}
+
+.dice, .dice2 {
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: #EFE5DC;
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dice2 {
+    display: grid;
+    place-items: center;
+}
+
+.dice div {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.dot {
+    background-color: black;
+    border-radius: 10px;
+}
+
+#number {
+    font: normal 60px "Arial", "Helvetica", sans-serif;
+}
