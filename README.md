@@ -10,3 +10,7 @@
   - [Solution #2](https://scrimba.com/scrim/co7ac4246aa693d2aa9ad2947) ([day5-reverseAString-2.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day5-reverseAString-2.js))
 - Day 6: Sort by Length
   - [Solution #1](https://scrimba.com/scrim/co7a74b0ea9d82b404697c835) ([day6-sortByLength.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day6-sortByLength.js/))
+- Day 7: Count Vowel Consonant
+  - [Solution #1](https://scrimba.com/scrim/coef3433a89b20926f139d624) ([day7-countVowelConsontant.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day7-countVowelConsontant.js/))
+  - [Solution #2](https://scrimba.com/scrim/coc3541bfbeb6e2338dea83a0) ([day7-countVowelConsontant-2.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day7-countVowelConsontant-2.js/))
+  - [Solution #3](https://scrimba.com/scrim/co1e249308b3ae9bbe50d6071) ([day7-countVowelConsontant-3.js](https://github.com/daimessdn/javascriptmas-scrimba-challenge/blob/master/day7-countVowelConsontant-3.js/))
